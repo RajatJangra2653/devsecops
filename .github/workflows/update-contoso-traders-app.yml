@@ -26,7 +26,7 @@ env:
   CARTS_ACA_NAME: contoso-traders-carts
   CARTS_ACR_REPOSITORY_NAME: contosotradersapicarts
   CDN_PROFILE_NAME: contoso-traders-cdn
-  SUB_DEPLOYMENT_REGION: eastus2
+  SUB_DEPLOYMENT_REGION: westus
   KV_NAME: contosotraderskv
   PRODUCTS_ACR_REPOSITORY_NAME: contosotradersapiproducts
   PRODUCTS_DB_NAME: productsdb
@@ -36,7 +36,7 @@ env:
   PRODUCT_IMAGES_STORAGE_ACCOUNT_NAME: contosotradersimg
   PRODUCT_LIST_CONTAINER_NAME: product-list
   PRODUCTS_CDN_ENDPOINT_NAME: contoso-traders-images
-  RESOURCE_GROUP_NAME: contosotraders-<deployment-id>
+  RESOURCE_GROUP_NAME: contosotraders-1416273
   STORAGE_ACCOUNT_NAME: contosotradersimg
   UI_CDN_ENDPOINT_NAME: contoso-traders-ui2
   UI_STORAGE_ACCOUNT_NAME: contosotradersui2
