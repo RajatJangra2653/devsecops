@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "env": {
-      "value": "123"
+      "value": ""
     },
     "sqlPassword": {
-      "value": "Rjangra#2021"
+      "value": ""
     },
     "aksLinuxAdminUsername": {
       "value": "Rjangra-2021"
