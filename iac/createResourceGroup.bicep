@@ -25,7 +25,7 @@ param suffix string
   'westcentralus'
   'westeurope'
 ])
-param rgLocation string
+param rgLocation string eastus2
 
 // variables
 ////////////////////////////////////////////////////////////////////////////////
