@@ -4,13 +4,13 @@ targetScope = 'subscription'
 // parameters
 ////////////////////////////////////////////////////////////////////////////////
 
-param rgLocation string = 'westus'
+param rgLocation string = 'uksouth'
 
 // variables
 ////////////////////////////////////////////////////////////////////////////////
 
 // rg for storage account, service bus, cosmos db & function app
-var rgName = 'contosotraders-141627321'
+var rgName = 'contosotraders-1416273212'
 
 
 // resource groups
