@@ -10,7 +10,7 @@ param rgLocation string = 'uksouth'
 ////////////////////////////////////////////////////////////////////////////////
 
 // rg for storage account, service bus, cosmos db & function app
-var rgName = 'contosotraders-121'
+var rgName = 'contosotraders-123'
 
 
 // resource groups
